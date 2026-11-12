@@ -1,5 +1,5 @@
 # Copyright (c) 2026 Andrew R. Crocker
-# Notes from the Abstract
+# Notes from the Abstracts
 # Men's vs Women's Health Centers at US News Honor Roll Hospitals (2025-2026)
 
 library(ggplot2)
@@ -42,7 +42,7 @@ p <- ggplot(data, aes(x = Category, y = Pct)) +
     subtitle = "Gender-specific health centers at the 20 US News Honor Roll hospitals, 2025-2026.\nEvery hospital has a women's health center. Fewer than half have anything for men.",
     x = NULL,
     y = NULL,
-    caption = "Source: Notes from the Abstract analysis of US News 2025-2026 Best Hospitals Honor Roll.\nHospital websites surveyed June 2026. Multidisciplinary = primary care + 3 or more specialties."
+    caption = "Source: Notes from the Abstracts analysis of US News 2025-2026 Best Hospitals Honor Roll.\nHospital websites surveyed June 2026. Multidisciplinary = primary care + 3 or more specialties."
   ) +
   theme_1950s() +
   theme(
