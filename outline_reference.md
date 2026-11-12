@@ -1,4 +1,4 @@
-# Notes from the Abstract — Piece Outline
+# Notes from the Abstracts — Piece Outline
 ## Working Title: TBD
 ### Thesis: Men are the underserved population in American healthcare, and the infrastructure to change that does not exist.
 
@@ -56,11 +56,11 @@ The broader campaign landscape:
 
 **Hospital-level programming (original analysis):**
 - In 2017, Alam et al. surveyed the top 50 U.S. hospitals and found 98% had a women's health center while 32% had any kind of men's health center (PMID: 29264139). That study was never replicated or updated.
-- Notes from the Abstract surveyed all 20 US News & World Report Honor Roll hospitals (2025-2026) in June 2026 and found the disparity persists: 100% (19 of 19) have a branded women's health center. 47% (9 of 19) have any kind of men's health center.
+- Notes from the Abstracts surveyed all 20 US News & World Report Honor Roll hospitals (2025-2026) in June 2026 and found the disparity persists: 100% (19 of 19) have a branded women's health center. 47% (9 of 19) have any kind of men's health center.
 - Of those 9 men's health centers, only 3 (16% of Honor Roll hospitals) are truly multidisciplinary — offering primary care alongside three or more specialties in a coordinated program: NYU Langone (Preston Robert Tisch Center), UCLA (The Men's Clinic), and New York-Presbyterian (Iris Cantor Center, funded by a $20 million philanthropic gift).
 - The remaining 6 are urology departments with expanded branding — treating erectile dysfunction, BPH, testosterone, and prostate conditions. Men's health gets reduced to a prostate and a penis. Women's health expanded beyond reproductive organs into whole-person care decades ago.
 - The Iris Cantor Center at NYP is located in the same building as the Women's Health Center that the same donor established in 2002. The men's center opened more than twenty years later. One philanthropist had to write a $20 million check to create what the institution had built for women on its own.
-- Source: Original analysis, Notes from the Abstract, June 2026. Dataset and methodology available on GitHub. Alam et al. 2017 (PMID: 29264139) for baseline comparison.
+- Source: Original analysis, Notes from the Abstracts, June 2026. Dataset and methodology available on GitHub. Alam et al. 2017 (PMID: 29264139) for baseline comparison.
 
 **The rural dimension:**
 - The Honor Roll hospitals are all major urban academic medical centers. If the best-funded hospitals in the country have men's health programs at 47%, what does rural America look like?

@@ -1,5 +1,5 @@
 # Copyright (c) 2026 Andrew R. Crocker
-# Notes from the Abstract
+# Notes from the Abstracts
 # After Everything Else Is Accounted For
 # Male-to-female hazard ratios for cause-specific mortality
 # Data: Francis et al., JAMA Netw Open. 2026;9(1):e2556299

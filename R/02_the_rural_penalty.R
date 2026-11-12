@@ -1,5 +1,5 @@
 # Copyright (c) 2026 Andrew R. Crocker
-# Notes from the Abstract
+# Notes from the Abstracts
 # The Rural Penalty: Urban-rural life expectancy gap by sex over two decades
 # Data: Chapel et al., Journal of Rural Health, 2025;41(1):e12875
 

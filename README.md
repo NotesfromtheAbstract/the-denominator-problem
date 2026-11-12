@@ -1,8 +1,8 @@
-# Notes from the Abstract — Men's Health Piece
+# Notes from the Abstracts — Men's Health Piece
 
 **Working Title:** TBD
 **Author:** Andrew R. Crocker
-**Publication:** [Notes from the Abstract](https://andrewrcrocker.substack.com)
+**Publication:** [Notes from the Abstracts](https://andrewrcrocker.substack.com)
 
 ## Overview
 
